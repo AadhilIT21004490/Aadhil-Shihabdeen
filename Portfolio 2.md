@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aadhil Shihabdeen</h1>
 <h3 align="center">3rd Year IT Undergraduate at SLIIT and passionate Software developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aadhilit21004490&label=Profile%20views&color=0e75b6&style=flat" alt="aadhilit21004490" /> </p>
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Aadhil Shihabdeen) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aadhil.jpg) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Aadhil-Shihabdeen) 
 
